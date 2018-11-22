@@ -1,6 +1,4 @@
-Our array holds pointer to ints and they have a width of 8 bytes...
      Size       Runtime
-    (bytes)    (seconds) 
        5120	 0.00296402
        6144	 0.00296807
        7168	 0.00296688
